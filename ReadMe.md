@@ -2,5 +2,5 @@ Trial Pipeline
 
 
 :sunflower:
-
-Build is now working I have changed the branch to */dev* and I am testing if it is now working. 
+broke pipeline testing new solutions.
+Build is now working I have changed the branch to */dev* and I am testing if it is now working.
